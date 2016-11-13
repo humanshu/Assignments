@@ -1,2 +1,2 @@
 # Assignments
-Companies given assignment
+Assignmens given by company.
