@@ -1,0 +1,16 @@
+<style>
+#urlDataTable td{
+text-align: center;
+padding :65px;
+
+}
+
+#urlDataTable td{
+border: 1px solid black;
+border-collapse: collapse;
+width: 10%;
+height: 50px;
+text-align: center;
+}
+
+</style>
